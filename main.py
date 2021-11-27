@@ -12,7 +12,6 @@ import os.path
 import hashlib
 import pprint
 
-api_key = "764c3f98a821bc1db93fb2a381dd98456adb552b6d1004bf58fb83d6682f9467"
 analysis_id = "8c7ccefa5576b1be7fdc9d59fa1185ab64469b88696d195e61b4a12b9dee7d5e"
 format = '%(asctime)s ; %(message)s '
 wait = 10
