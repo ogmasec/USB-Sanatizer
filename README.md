@@ -1,2 +1,1 @@
-# USB-checker
-
+# USB-sanatizer

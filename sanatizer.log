@@ -1,0 +1,15 @@
+2021-12-02 20:38:20,162 ; INFO ;  --> New analysis
+2021-12-02 20:38:21,014 ; INFO ; Entropy is ;3.5191090305155277
+2021-12-02 20:44:54,473 ; INFO ;  --> New analysis
+2021-12-02 20:45:20,250 ; INFO ;  --> New analysis
+2021-12-02 20:45:21,680 ; INFO ; Entropy is ;3.5191090305155277
+2021-12-02 20:45:32,330 ; INFO ; Entropy is ;5.873210936867982
+2021-12-02 20:45:42,981 ; INFO ; Entropy is ;6.220536763798059
+2021-12-02 20:45:53,732 ; INFO ; Entropy is ;6.1472042896900385
+2021-12-02 20:46:03,746 ; INFO ; USB-Sanatyzer results ; {'b029393ea7b7cf644fb1c9f984f57c1980077562ee2e15d0ffd049c4c48098d3': {'path': 'C:\\Users\\math\\Downloads\\desktop.ini', 'md5': '3a37312509712d4e12d27240137ff377', 'sha1': '30ced927e23b584725cf16351394175a6d2a9577', 'entropy': 3.5191090305155277}, 'a02e9953347d0868a55c09e3a57e4f8680f3f2bc30cfdc59b57bb624159bf7e3': {'path': 'C:\\Users\\math\\Downloads\\MinHook.x64.dll', 'md5': '743b99238f1753c99fccdb92ea26a34d', 'sha1': 'ebe2cae665e631f06c04e3eb67091d0dd5e0a5d9', 'entropy': 5.873210936867982}, 'a5064b8a1d884cf90e30bfd578ada81eaf57a3b632c6610076561053e2418264': {'path': 'C:\\Users\\math\\Downloads\\Uber nice.pdf', 'md5': '3969e5019155eb68e5c2e2121c327580', 'sha1': 'daf098a0a1099a1aa7a8c3a4c615a475c7332056', 'entropy': 6.220536763798059}, 'b9365269fa5cf03a2a262d6c2e253d388f81c748163df6fee9fe56673b4cca2d': {'path': 'C:\\Users\\math\\Downloads\\Uber Paris.pdf', 'md5': '3d5079b4435443d03fba4f3255a2d540', 'sha1': '28f62bbe95360555e57af2e18e212c7fdd4e3589', 'entropy': 6.1472042896900385}}
+2022-01-27 18:28:09,612 ; INFO ;  --> New analysis
+2022-01-27 18:28:21,422 ; INFO ;  --> New analysis
+2022-01-27 18:29:08,500 ; INFO ;  --> New analysis
+2022-01-27 18:30:31,887 ; INFO ;  --> New analysis
+2022-01-27 18:31:07,898 ; INFO ;  --> New analysis
+2022-01-27 18:31:27,733 ; INFO ;  --> New analysis
