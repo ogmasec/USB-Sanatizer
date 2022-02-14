@@ -1,6 +1,9 @@
+﻿#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # VT Checker
 # README :
 # Import requests
+
 
 import sys
 import json
@@ -117,11 +120,11 @@ def WebHook(checker,sha256,db):
     hook.send(embed=embed)
 if __name__ == '__main__':
     logger.info(' --> New analysis')
-    walk = usbWalk()
+    #walk = usbWalk()
     VTcheck = virustotal("virustotal")
     ha = HybridAnalysis()
 
-    db = walk.get_files("C:\\Users\\math\\Downloads")
+    #db = walk.get_files("C:\\Users\\math\\Downloads")
 
     ####### Check #######
     #getting the results form a foler (USB Key?)
