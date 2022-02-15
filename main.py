@@ -127,7 +127,7 @@ if __name__ == '__main__':
     #db = walk.get_files("C:\\Users\\math\\Downloads")
 
     ####### Check #######
-    #getting the results form a foler (USB Key?)
+    #getting the results form a folder (USB Key?)
     for sha256 in db:
         ha_scan = ha.search_hash(sha256) ## Getting hybrid analysis results
         db[sha256]["entropy"] = walk.get_entropy(db[sha256]["path"]) ## Check file entropy (>9 sounds bad)
